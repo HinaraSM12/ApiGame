@@ -85,6 +85,30 @@
       "precio": 299.99,
       "descripcion": "Consola híbrida que se puede usar tanto en modo portátil como en modo de sobremesa.",
       "imagen": "https://images-na.ssl-images-amazon.com/images/I/61-PblYntsL._AC_SL1500_.jpg"
+    },
+    {
+      "id": "4",
+      "titulo": "PlayStation 4",
+      "fabricante": "Sony",
+      "precio": 299.99,
+      "descripcion": "La consola anterior de Sony con una amplia biblioteca de juegos.",
+      "imagen": "https://tumejoroferta.com/wp-content/uploads/2023/04/original_17215.jpg"
+    },
+    {
+      "id": "5",
+      "titulo": "Xbox One",
+      "fabricante": "Microsoft",
+      "precio": 299.99,
+      "descripcion": "La consola anterior de Microsoft con una gran selección de juegos.",
+      "imagen": "https://exitocol.vtexassets.com/arquivos/ids/21272061/consola-xbox-one-s-1tb-1003291541.jpg"
+    },
+    {
+      "id": "6",
+      "titulo": "Nintendo 3DS",
+      "fabricante": "Nintendo",
+      "precio": 199.99,
+      "descripcion": "Consola portátil con capacidad para mostrar imágenes en 3D sin necesidad de gafas especiales.",
+      "imagen": "https://www.nintendo.com/eu/media/images/10_share_images/systems_11/nintendo_3ds_28/H2x1_generic_3DS.jpg"
     }
   ]
 }

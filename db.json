@@ -109,6 +109,30 @@
       "precio": 199.99,
       "descripcion": "Consola portátil con capacidad para mostrar imágenes en 3D sin necesidad de gafas especiales.",
       "imagen": "https://www.nintendo.com/eu/media/images/10_share_images/systems_11/nintendo_3ds_28/H2x1_generic_3DS.jpg"
+    },
+    {
+      "id": "7",
+      "titulo": "PlayStation Vita",
+      "fabricante": "Sony",
+      "precio": 149.99,
+      "descripcion": "Consola portátil con pantalla táctil y capacidad de conexión a internet.",
+      "imagen": "https://images-na.ssl-images-amazon.com/images/I/81ocPLCedaL._AC_SL1500_.jpg"
+    },
+    {
+      "id": "8",
+      "titulo": "Nintendo Wii U",
+      "fabricante": "Nintendo",
+      "precio": 299.99,
+      "descripcion": "Consola con un controlador con pantalla táctil y capacidad para jugar en línea.",
+      "imagen": "https://images-na.ssl-images-amazon.com/images/I/41GQwMeXJxL._AC_UL600_SR600,600_.jpg"
+    },
+    {
+      "id": "9",
+      "titulo": "Xbox 360",
+      "fabricante": "Microsoft",
+      "precio": 199.99,
+      "descripcion": "Consola de la generación anterior de Microsoft con una amplia biblioteca de juegos.",
+      "imagen": "https://m.media-amazon.com/images/I/61oFqsoj9nL.jpg"
     }
   ]
 }

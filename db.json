@@ -52,13 +52,6 @@
       "descripcion": "Acompaña a Kratos y Atreus en su viaje a través de la mitología nórdica.",
       "imagen": "https://uvejuegos.com/img/caratulas/67097/godofwar.jpg",
       "plataforma": "PlayStation 4"
-    },
-    {
-      "id": "5b9a",
-      "titulo": "Super Mario Odyssey",
-      "precio": "14434",
-      "descripcion": "Únete a Mario en una emocionante aventura por diferentes reinos.",
-      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfBrO70O_1bGSPrX_emgqFnVOWbu0VsaPsQg&s"
     }
   ],
   "Consolas": [
@@ -125,38 +118,6 @@
       "precio": 299.99,
       "descripcion": "Consola con un controlador con pantalla táctil y capacidad para jugar en línea.",
       "imagen": "https://images-na.ssl-images-amazon.com/images/I/41GQwMeXJxL._AC_UL600_SR600,600_.jpg"
-    },
-    {
-      "id": "9",
-      "titulo": "Xbox 360",
-      "fabricante": "Microsoft",
-      "precio": 199.99,
-      "descripcion": "Consola de la generación anterior de Microsoft con una amplia biblioteca de juegos.",
-      "imagen": "https://m.media-amazon.com/images/I/61oFqsoj9nL.jpg"
-    },
-    {
-      "id": "10",
-      "titulo": "PlayStation 3",
-      "fabricante": "Sony",
-      "precio": 199.99,
-      "descripcion": "Consola de la generación anterior de Sony con soporte para juegos en línea.",
-      "imagen": "https://i.ebayimg.com/thumbs/images/g/Y9kAAOSw2KVlJpwa/s-l1200.jpg"
-    },
-    {
-      "id": "11",
-      "titulo": "Nintendo DS",
-      "fabricante": "Nintendo",
-      "precio": 149.99,
-      "descripcion": "Consola portátil con pantalla táctil y capacidad para jugar en línea.",
-      "imagen": "https://www.nintenderos.com/wp-content/uploads/2011/06/Nintendo-DS-Lite.jpg"
-    },
-    {
-      "id": "12",
-      "titulo": "Xbox",
-      "fabricante": "Microsoft",
-      "precio": 299.99,
-      "descripcion": "La primera consola de Microsoft con una amplia biblioteca de juegos.",
-      "imagen": "https://www.lifewire.com/thmb/wopIeO2qWXu_54rpyw6BS-LpRGc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/x-box-731a722dbdca4e86919196e580b9385e.jpg"
     }
   ],
   "Variedades": [

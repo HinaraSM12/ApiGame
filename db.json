@@ -153,3 +153,32 @@
       "imagen": "https://i0.wp.com/rockdreams.com.co/wp-content/uploads/2023/05/PAC-MAN-2.jpg"
     },
     {
+      "id": "5",
+      "titulo": "Poster de The Witcher",
+      "precio": 9.99,
+      "descripcion": "Poster decorativo de la serie de juegos The Witcher.",
+      "imagen": "https://prod.assets.earlygamecdn.com/images/Witcher-Poster.jpg"
+    },
+    {
+      "id": "6",
+      "titulo": "Gorra de Sonic",
+      "precio": 14.99,
+      "descripcion": "Gorra con diseño de Sonic the Hedgehog.",
+      "imagen": "https://cdn1.store-media.com/media/sonic_the_hedgehog_merchandise_2022_01.jpg"
+    },
+    {
+      "id": "7",
+      "titulo": "Mochila de Pikachu",
+      "precio": 29.99,
+      "descripcion": "Mochila con diseño de Pikachu de la serie Pokémon.",
+      "imagen": "https://cdn11.bigcommerce.com/s-hkk6f51lps/products/123/images/456/pikachu_backpack__61393.1616615165.jpg"
+    },
+    {
+      "id": "8",
+      "titulo": "Llavero de Assassin's Creed",
+      "precio": 7.99,
+      "descripcion": "Llavero con el emblema de Assassin's Creed.",
+      "imagen": "https://m.media-amazon.com/images/I/71V0A6OlnEL._AC_SL1500_.jpg"
+    }
+  ]
+}

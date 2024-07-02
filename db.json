@@ -158,5 +158,42 @@
       "descripcion": "La primera consola de Microsoft con una amplia biblioteca de juegos.",
       "imagen": "https://www.lifewire.com/thmb/wopIeO2qWXu_54rpyw6BS-LpRGc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/x-box-731a722dbdca4e86919196e580b9385e.jpg"
     }
+  ],
+  "Variedades": [
+    {
+      "id": "1",
+      "titulo": "Figura de Acción de Mario",
+      "precio": 19.99,
+      "descripcion": "Figura de acción detallada de Mario de la serie Super Mario.",
+      "imagen": "https://m.media-amazon.com/images/I/61Rv8++ma9L._AC_SL1500_.jpg"
+    },
+    {
+      "id": "2",
+      "titulo": "Figura de Acción de Link",
+      "precio": 24.99,
+      "descripcion": "Figura coleccionable de Link de The Legend of Zelda.",
+      "imagen": "https://m.media-amazon.com/images/I/51GQjVa2nDL._AC_SL1200_.jpg"
+    },
+    {
+      "id": "3",
+      "titulo": "Taza de Minecraft",
+      "precio": 14.99,
+      "descripcion": "Taza con diseño de Minecraft para los fans del juego.",
+      "imagen": "https://lamirilla.pe/wp-content/uploads/2023/11/TAZA-MINECRAFT-CREEPER-CUBO-a.png"
+    },
+    {
+      "id": "4",
+      "titulo": "Camiseta de Pac-Man",
+      "precio": "19.99",
+      "descripcion": "Camiseta con diseño clásico de Pac-Man.",
+      "imagen": "https://i0.wp.com/rockdreams.com.co/wp-content/uploads/2023/05/PAC-MAN-2.jpg"
+    },
+    {
+      "id": "5",
+      "titulo": "Llavero de Sonic",
+      "precio": 9.99,
+      "descripcion": "Llavero con la figura de Sonic the Hedgehog.",
+      "imagen": "https://tiendalego.com.co/cdn/shop/products/854239-1_1000x1000.jpg"
+    }
   ]
 }

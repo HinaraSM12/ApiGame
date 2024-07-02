@@ -157,28 +157,28 @@
       "titulo": "Poster de The Witcher",
       "precio": 9.99,
       "descripcion": "Poster decorativo de la serie de juegos The Witcher.",
-      "imagen": "https://prod.assets.earlygamecdn.com/images/Witcher-Poster.jpg"
+      "imagen": "https://m.media-amazon.com/images/I/61+ix81a5yL._AC_UF894,1000_QL80_.jpg"
     },
     {
       "id": "6",
       "titulo": "Gorra de Sonic",
       "precio": 14.99,
       "descripcion": "Gorra con diseño de Sonic the Hedgehog.",
-      "imagen": "https://cdn1.store-media.com/media/sonic_the_hedgehog_merchandise_2022_01.jpg"
+      "imagen": "https://exitocol.vtexassets.com/arquivos/ids/5601069/gorra-o-cachucha-sonic-x-adventure-mania-boom-el-erizo-azul.jpg"
     },
     {
       "id": "7",
       "titulo": "Mochila de Pikachu",
       "precio": 29.99,
       "descripcion": "Mochila con diseño de Pikachu de la serie Pokémon.",
-      "imagen": "https://cdn11.bigcommerce.com/s-hkk6f51lps/products/123/images/456/pikachu_backpack__61393.1616615165.jpg"
+      "imagen": "https://i.pinimg.com/736x/db/c1/bf/dbc1bf3553a87419138e8afd2cb5f89c.jpg"
     },
     {
       "id": "8",
       "titulo": "Llavero de Assassin's Creed",
       "precio": 7.99,
       "descripcion": "Llavero con el emblema de Assassin's Creed.",
-      "imagen": "https://m.media-amazon.com/images/I/71V0A6OlnEL._AC_SL1500_.jpg"
+      "imagen": "https://m.media-amazon.com/images/I/81TPmA8cWZL.jpg"
     }
   ]
 }
